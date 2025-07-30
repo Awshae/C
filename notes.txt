@@ -1,0 +1,18 @@
+Int = 2/4 bytes %d
+Char = 1 byte %c
+Float = 4 bytes %f
+double/long float = 8 bytes %lf
+long float = 10 bytes %Lf
+
+0 is 48 in ASCII
+null is /o or 0
+null = 0 , 0 NOT null
+
+printing sizeof(null) gets 1 as output.
+
+if float x = 10.1 and all itll always become double float. BUT 0.5 is acted like a whole number itself.
+
+Binary, octal etc etc .
+
+
+NO POINTERS IN JAVA BCAUSE OF SECURITY BREACH
